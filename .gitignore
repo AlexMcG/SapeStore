@@ -1,0 +1,8 @@
+.metadata/
+RemoteSystemsTempFiles
+SapeStoreApp/target/
+SapeStoreApp/.settings/
+SapeStoreApp/.classpath
+SapeStorePartnerServices/target/
+SapeStorePartnerServices/.settings/
+SapeStorePartnerServices/.classpath
